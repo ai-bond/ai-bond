@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @james blond
+- 👀 I’m interested in whatnever )
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on any staff
+- 📫 How to reach me in MI6

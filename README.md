@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @james blond
 - 👀 I’m interested in whatnever )
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on any staff
-- 📫 How to reach me in MI6
+- 💞️ Will review job offer in interest AI project (and will skip - "job for a food")
+- 📫 Telegram @ai_bond007

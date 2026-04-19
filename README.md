@@ -2,4 +2,4 @@
 - 👀 I’m interested in whatnever )
 - 🌱 I’m currently learning Rust
 - 💞️ Will review job offer in interest AI project (and will skip - "job for a food")
-- 📫 Telegram @ai_bond007
+- 📫 Telegram @ai_bond007 / [jamesbond_007@my.com](mailto:jamesbond_007@my.com)
